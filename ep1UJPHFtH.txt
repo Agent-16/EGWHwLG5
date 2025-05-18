@@ -1,93 +1,148 @@
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELTA體育,rtmp://9hv9.mine.nu/sat/md011
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-東森美洲HD,http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
-TVBS亞洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
-東森幼幼,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-東森戲劇,http://211.23.114.106:8530/http/60.251.39.91:8081/hls/64/806/ch13.m3u8
-龍華偶像,http://50.7.234.10:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
-龍華戲劇,http://50.7.234.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=ME6E4094688440946884&ct=19234&tsum=dcb21e7462cf3104b9c2e9d3ede30359
-靖天國際,http://50.7.234.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
-三立iNEWS,http://4gtv.mumi.rip:9877/229/4gtv-live089/index.m3u8
-華視新聞資訊,http://4gtv.mumi.rip:9877/34/4gtv-4gtv052/index.m3u8
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581#https://stream1.freetv.fun/47633d1dc2ae9a95a129bd4456177b9d840be282ec37dffe46c11a1fa975539c.ctv
-MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
-CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
-HBO強檔,http://125.227.210.55:8153/VideoInput/play.ts
-東森新聞美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-TVBS新聞,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS歡樂,http://125.227.210.55:8187/VideoInput/play.ts
-TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-台湾東森超视34.5 ：,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-LOVENATURE,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-動物星球,http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
-GOOD卡通,http://live.streamingfast.net/osmflivech45.m3u8
-大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-國會頻道1,http://61.58.60.230:9319/live/123.m3u8
-世新綜合,http://61.58.60.230:9319/live/49.m3u8
-嘉義SHOW,http://61.58.60.230:9319/live/100.m3u8
-孝廉宗教,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-東森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-GOOD TV CH2 真理台,https://live.streamingfast.net/osmflivech2.m3u8
-GOOD TV CH1 綜合台 ,https://live.streamingfast.net/osmflivech1.m3u8
-唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-探索頻道DMAX,http://50.7.234.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
-特輯影院,http://zzy789.xyz/douyu1.php?id=3637778
-邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519
-歌舞表演,http://epg.112114.eu.org/douyu/20415
-邵氏电影,http://epg.112114.xyz/douyu/4246519
-中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-三立臺灣,http://125.227.210.55:8160/VideoInput/play.ts
-TVBS歡樂,http://125.227.210.55:8187/VideoInput/play.ts
-緯來体育,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-JSPORTS1,https://stream1.freetv.fun/jsports-1-1.m3u8
-JSPORTS2,https://stream1.freetv.fun/jsports-2-2.m3u8
-JSPORTS3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-JSPORTS4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net:443/hls/1080p/playlist.m3u8
-摔跤格斗,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-貝爷求生影视2,https://www.goodiptv.club/douyu/9661369
-野行者,https://live.iill.top/huya/20072663
-Boxing TV 拳擊：,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-Horse and Country賽馬：,https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-Impact! Wrestling 摔跤：,https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
-KALOPY性感：,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
-MUTV 英国曼联 足球：,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-Outside TV 戶外運動：,https://outsidetv-firetv.amagi.tv/playlist.m3u8
-PAC 12 Insider 体育：,https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-pac12-samsungtv-us/playlist.m3u8
-Racing America 赛車：,https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
-Sky Sport 3：,https://donelfantastic.github.io/live/skysportsNz3.m3u8
-Sky Sport 9：,https://donelfantastic.github.io/live/skysportsNz9.m3u8
-TRACE Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-ZOOMOO兒童動畫：,https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-Discovery Channel英：,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
-CJB TV韓國：,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-EBS Kids韓國：,http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-NTV News 24 日本：,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-Fashion TV：,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Fashion TV：,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-MTV HITS 音樂：,http://45.88.92.3:80/tr3_MTVHits_SD/index.m3u8?token=test
-First Music Channel SD,http://hz1.teleport.cc/HLS/SD.m3u8
-First Music Channel HD,http://hz1.teleport.cc/HLS/HD.m3u8
-М2,http://live.m2.tv/hls3/720/stream.m3u8
-耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-Z香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-☞凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-☞凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-☞TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-无线翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-☞无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-☞TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+台灣,#genre#
+民視,p3p://108.181.32.169:57694/67695555000553dacd6e7e59493b3703
+民視(b),p3p://108.181.32.169:57694/6442f24f00097e845edb5e492842265c
+民視新聞台,p3p://108.181.32.169:57694/6766bbef00035b7fc3477e06654678f1
+公視,p3p://108.181.32.169:57694/64251df1000b5a9cea567a0e255d4664
+台視,p3p://108.181.32.169:57694/64251e0800060844ea56d28a6fad038f
+台視財經台,p3p://108.181.32.169:57694/6448a761000bec1a75267316701e7a90
+中視新聞,p3p://108.181.32.169:57694/67619ac100083ed5af3de392752b3307
+中天新聞,p3p://108.181.32.169:57694/67e00e6e0009896d9d2efd4d09e16785
+TVBS,p3p://108.181.32.169:57694/67d8273d000111d07e4fe3b346f81c5b
+壹電視新聞台,p3p://108.181.32.169:57694/67c065fd00054ff32185a62f6d595c5f
+TVBS新聞台,p3p://108.181.32.169:57694/642521680002b5f3ea6400bb781026f0
+年代新聞台,p3p://108.181.32.169:57694/67694e1500009a3dcd522b1b1f7e14f1
+東森新聞,p3p://108.181.32.169:57694/67d19b7f000b5dbb64be3e69351a2b90
+東森財經,p3p://108.181.32.169:57694/64251ff20001f010ea5e4b9002e57212
+非凡新聞,p3p://108.181.32.169:57694/676955eb00013181cd70c73b35a34c93
+寰宇新聞台,p3p://108.181.32.169:57694/67d51bf70002fbfb726c110b02f56c37
+三立新聞,p3p://108.181.32.169:57694/6766bc7f000ed78dc349b377648221c8
+三立戲劇三立戲劇,p3p://108.181.32.169:57694/64251e39000ed5bbea579433569b6381
+三立綜合台,p3p://108.181.32.169:57694/64251e49000e34e7ea57d28a25014df2
+三立台灣,p3p://108.181.32.169:57694/64251e5e0003388bea5821c268061bfb
+三立都會,p3p://108.181.32.169:57694/64251e7300064780ea587492773a63cc
+緯來電影,p3p://108.181.32.169:57694/64251eae0001bef7ea5959e100ae671e
+緯來體育,p3p://108.181.32.169:57694/64251ee9000a4e00ea5a428b26ea4156
+緯來日本,p3p://108.181.32.169:57694/64251ef6000315a6ea5a737a6efc404a
+緯來精彩,p3p://108.181.32.169:57694/64251f020003818bea5aa2750fef31c6
+緯來綜合,p3p://108.181.32.169:57694/64251f0d000c0b8fea5acf9d13b83665
+東森幼魚,p3p://108.181.32.169:57694/6430b41c0001f3831798d72948126428
+東森電影台,p3p://108.181.32.169:57694/64253899000a078deabe99ff587050b0
+東森綜合台,p3p://108.181.32.169:57694/64253f6e0002d287ead9482831323a6d
+東森戲劇台,p3p://108.181.32.169:57694/64251f7a000bc46eea5c79536d5e2a0e
+東森洋片,p3p://108.181.32.169:57694/64251f8a0008854aea5cb6fe64e47b4e
+八大娛樂台,p3p://108.181.32.169:57694/642520730002bc15ea6043b344e032a5
+八大第一,p3p://108.181.32.169:57694/6425207f00050f7aea60732c51b94fad
+八大綜合,p3p://108.181.32.169:57694/642520b0000c3261ea61346800d61673
+八大戲劇,p3p://108.181.32.169:57694/642520c1000929efea61760938521b57
+八大精彩台,p3p://108.181.32.169:57694/65435f63000ba94069331ccd6399041b
+華視綜合,p3p://108.181.32.169:57694/642520cd000995d4ea61a5050eb67a8d
+民視第一台,p3p://108.181.32.169:57694/642520e900023cc4ea621083588c7092
+民視影劇台,p3p://108.181.32.169:57694/6425257c000bd861ea73f1315c0e6e14
+民視綜藝台,p3p://108.181.32.169:57694/642d012300040bf70925bb06321b0b87
+TVBS 精採台,p3p://108.181.32.169:57694/642521570001b275ea63be1073931dd1
+TVBS-G歡樂台,p3p://108.181.32.169:57694/642521950001d9f2ea64b04b059b66dd
+TVBS-精彩台,p3p://108.181.32.169:57694/642521a2000c7beaea64e5cc482f669a
+靖洋戲劇台,p3p://108.181.32.169:57694/642521b000094942ea651baa457674cb
+人間衛視,p3p://108.181.32.169:57694/6425224d00048156ea677fb9420534b4
+大愛電視,p3p://108.181.32.169:57694/6425225a0002859cea67b1ff6aaf6db6
+大愛二台,p3p://108.181.32.169:57694/64252264000022beea67d87308e9122e
+MOMO親子台,p3p://108.181.32.169:57694/6425226f000463e1ea68048207b3285f
+ELEVEN 體育1,p3p://108.181.32.169:57694/6425227b000100c6ea6832842d41783a
+ELEVEN 體育2,p3p://108.181.32.169:57694/64252292000127feea688c6630d312e7
+ELTA體育1台,p3p://108.181.32.169:57694/6425229e00024ab4ea68bb9154ab1928
+ELTA體育2台,p3p://108.181.32.169:57694/642522b0000a6c14ea6903f615622aab
+ELTA體育3台,p3p://108.181.32.169:57694/642522bd000ad1bbea6936d803e32fc0
+ELTA體育3台國語,p3p://108.181.32.169:57694/6433e3220006392724084f1711880c01
+博斯魅力,p3p://108.181.32.169:57694/642d395d0004e9950a015dce389f4c91
+博斯運動一,p3p://108.181.32.169:57694/642d000d000525a509217d5a62e868e8
+博斯網球檯,p3p://108.181.32.169:57694/642d0029000bd7e70921ec71212f5735
+博斯運動二,p3p://108.181.32.169:57694/642d0087000484c5092359c47ee4201a
+博高球檯,p3p://108.181.32.169:57694/642d009f000f1f000923ba3b26b667e4
+博高球二台,p3p://108.181.32.169:57694/642d00ae000e846a0923f4ac45c06f09
+博斯無限台,p3p://108.181.32.169:57694/642d00bf00041ae7092434690ae526c7
+ELTA綜合,p3p://108.181.32.169:57694/642522cd000292e6ea69733b04032ded
+國家地理高畫質野生,p3p://108.181.32.169:57694/642523f2000e0f35ea6deeb16ff816c9
+歷史頻道2,p3p://108.181.32.169:57694/642521e0000042a6ea65d4db3e9d23f9
+EYE TV旅遊台,p3p://108.181.32.169:57694/642524030003a5b2ea6e2e6f6efc45a1
+探索科學,p3p://108.181.32.169:57694/6425241100084dfbea6e6650539d779f
+亞洲旅遊台,p3p://108.181.32.169:57694/642520f70001a86dea62470d303d34d3
+美食星球,p3p://108.181.32.169:57694/6425252400079076ea72985811e07306
+CI 罪案偵查頻道crime,p3p://108.181.32.169:57694/642520d9000d93c9ea61d4ea78792b01
+動物星球animal planet,p3p://108.181.32.169:57694/6425241f00027d03ea6e9b836b853b0b
+星衛娛樂台,p3p://108.181.32.169:57694/6425242d000d55adea6ed4fa37195f98
+愛爾達影劇台,p3p://108.181.32.169:57694/6425243c00046a2eea6f0d4964f8022d
+Smithsonian Channel,p3p://108.181.32.169:57694/64252459000cfdb2ea6f80c37a14067d
+金光布袋戲,p3p://108.181.32.169:57694/6425246600099458ea6fb2ab4398320b
+CatchPlay電影台,p3p://108.181.32.169:57694/64252479000b7f1aea6ffd6177e3015c
+衛視中文 HD Star Chinese,p3p://108.181.32.169:57694/64252507000eefc4ea7228f32f390502
+好萊塢電影台,p3p://108.181.32.169:57694/6425244f0001184fea6f56a70aca63d2
+衛視電影台scm,p3p://108.181.32.169:57694/642525150008a4ecea725e071929091e
+星衛HD電影,p3p://108.181.32.169:57694/642521030009ef43ea62780c438e2a38
+美亞電影台,p3p://108.181.32.169:57694/642525310003ad3cea72ca2155c734c3
+衛視HD電影,p3p://108.181.32.169:57694/6425253c0007ee60ea72f6307ae25fdd
+JET TV,p3p://108.181.32.169:57694/6425254d000d3abeea7339f47b5d4bf5
+BRAVO中視青採,p3p://108.181.32.169:57694/642525590004d7f3ea7366ae4aeb3d9d
+中天娛樂,p3p://108.181.32.169:57694/642525670005ee2bea739da573c134b4
+中天亞洲,p3p://108.181.32.169:57694/64254f7e000dfed1eb1809855c5735ce
+中天綜合,p3p://108.181.32.169:57694/642d0188000d7c49092747f97ffc7c72
+HBO tw,p3p://108.181.32.169:57694/64137f0b0006a17fa58238155813216c
+HBO家庭,p3p://108.181.32.169:57694/64137f3c000d4a86a582f93235111bc5
+HBO強檔,p3p://108.181.32.169:57694/64137f700008f329a583c3344ddf5dfc
+HBO原創,p3p://108.181.32.169:57694/64137f970005246ea5845a9326ce6233
+Thrill,p3p://108.181.32.169:57694/644a0879000272f67a89b6687af342ae
+豬哥亮歌廳秀,p3p://108.181.32.169:57694/642d012f00030a3c0925e9a4065b1986
+靖天育樂台,p3p://108.181.32.169:57694/642d013d0001084409261fd04c0c3c04
+龍翔時代電影,p3p://108.181.32.169:57694/642d014b0009f96e092658cb4e1b23ff
+Baby First,p3p://108.181.32.169:57694/642d015f000070f00926a47a6a2e7d52
+ET綜合台,p3p://108.181.32.169:57694/642d017d0000a964092719b87e2e3acd
+好消息,p3p://108.181.32.169:57694/642d01960008dc0109277d7a4fc40fce
+好消息2台,p3p://108.181.32.169:57694/642d07140006a38a093cf11414d83398
+CNN my,p3p://108.181.32.169:57694/641380c6000d7e73a588fc4e012b3240
+CNBC my,p3p://108.181.32.169:57694/64138101000e328aa589e2f46ee85f3d
+ABC Australia my,p3p://108.181.32.169:57694/6413811b0006e5f7a58a46a6057a4674
+Sky News HD my,p3p://108.181.32.169:57694/641381340003e883a58aa78a57c53479
+Bloomberg TV my,p3p://108.181.32.169:57694/6413814f000a6413a58b12ab52934c96
+France 24 my,p3p://108.181.32.169:57694/6413816700069158a58b6f7a03cd341c
+Euro news my,p3p://108.181.32.169:57694/6413817b0003393aa58bbcbf158b6409
+FOX NEWS my,p3p://108.181.32.169:57694/6413818e000154fca58c067b60210765
+BBC News HD,p3p://108.181.32.169:57694/641384e7000133cda5991a1b33cb3ea0
+DW HD,p3p://108.181.32.169:57694/641384f6000cbd09a59957a77daa41a1
+中國,#genre#
+CCTV1,p3p://108.181.32.169:57694/67c067ba000b1f61218c71f667bc328c
+CCTV2,p3p://108.181.32.169:57694/64260c83000b5f74edfa64604fe67a12
+CCTV3,p3p://108.181.32.169:57694/64260c9b0000ca3dedfabf6a10b00144
+CCTV4,p3p://108.181.32.169:57694/64260ca5000de050edfae9d444575946
+CCTV5,p3p://108.181.32.169:57694/64260cb0000afd53edfb140f10811127
+CCTV5+,p3p://108.181.32.169:57694/64260cbc00081417edfb42307c984dd4
+CCTV6,p3p://108.181.32.169:57694/64260cc800087ffdedfb712c61a06569
+CCTV7,p3p://108.181.32.169:57694/64260cd9000ba7ebedfbb46356b665a0
+CCTV8,p3p://108.181.32.169:57694/64260ce50007141fedfbe217161d5245
+CCTV9,p3p://108.181.32.169:57694/64260cef0008fa21edfc09a37d024704
+CCTV10,p3p://108.181.32.169:57694/64260d0a000e81f1edfc74866d9b5c0f
+CCTV11,p3p://108.181.32.169:57694/64260dce0000aea8edff6e9d426b2704
+CCTV12,p3p://108.181.32.169:57694/64260e37000ca83aee010bd5707e0fea
+CCTV13,p3p://108.181.32.169:57694/64260e45000ccab2ee01428e6da4043d
+CCTV14,p3p://108.181.32.169:57694/64260e4f0007169bee0168271778447e
+CCTV15,p3p://108.181.32.169:57694/64260e5a000a63ffee0193f872fa5767
+北京衛視,p3p://108.181.32.169:57694/64260fe100097b88ee078b124b8f3f9d
+東方衛視,p3p://108.181.32.169:57694/64260ef600069de1ee03f45f41e9710e
+浙江衛視,p3p://108.181.32.169:57694/64260fec0004b10aee07b4d0681c628b
+江蘇衛視,p3p://108.181.32.169:57694/64260e700008a9f5ee01e97667ca7d36
+江蘇備視,p3p://108.181.32.169:57694/64260e7d000134abee021a56268d6ac1
+湖南衛視,p3p://108.181.32.169:57694/64260ee40007c511ee03ae5a4aed536d
+廣東衛視,p3p://108.181.32.169:57694/642610b9000df973ee0ad7f9779b6483
+廣東衛視,p3p://108.181.32.169:57694/642610c3000df7f5ee0aff0975881941
+深圳衛視,p3p://108.181.32.169:57694/64261082000a8e12ee0a00412f96293c
+安徽衛視,p3p://108.181.32.169:57694/64260fd5000d5883ee075d2f7d6a48e2
+山東衛視,p3p://108.181.32.169:57694/64260f89000475c3ee06320a031a7286
+河南衛視,p3p://108.181.32.169:57694/64260fb100056a93ee06ce871c2e5071
+海南衛視,p3p://108.181.32.169:57694/64260fc10002a54fee070c525d0d5e83
+東南衛視,p3p://108.181.32.169:57694/64260fcb00035aa0ee0733907e64579c
+江西衛視,p3p://108.181.32.169:57694/64260f920000727aee06542a02064fce
+陝西衛視,p3p://108.181.32.169:57694/642610c3000df7f5ee0aff0975881941
+湖北衛視,p3p://108.181.32.169:57694/64260ed500091677ee0374195121319b
+重慶衛視,p3p://108.181.32.169:57694/642610b9000df973ee0ad7f9779b6483
+黑龍江視,p3p://108.181.32.169:57694/64260fa7000c1330ee06a92c52724886
+廣東珠江,p3p://108.181.32.169:57694/6799835900013ee889a12e634f961767
+大灣區衛視,p3p://108.181.32.169:57694/64261096000de036ee0a4f3b523d603e
+廣東嘉佳,p3p://108.181.32.169:57694/642610a2000b33ebee0a7d6c26c160b2
