@@ -1,0 +1,70 @@
+{
+"lives": [{
+   "name": "cluntop",
+   "type": 0,
+   "url": "./lib/iptv.m3u",
+   "ua": "okhttp/4.1.0"
+  }, {
+   "name": "LITV 直播",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py"
+  }, {
+   "name": "SMT 直播",
+   "type": 3,
+   "api": "https://gh.clun.top/raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py"
+  }, {
+   "name": "YTLive",
+   "type": 0,
+   "url": "./lib/yo21.txt"
+  }, {
+   "name": "wqwqwq",
+   "type": 0,
+   "url": "https://la1.wqwqwq.sbs/tv.m3u"
+  }, {
+   "name": "YanG",
+   "type": 0,
+   "url": "https://tv.iill.top/m3u/Gather",
+   "ua": "(Windows NT 10.0; Win64; x64) PotPlayer/25.03.21",
+   "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+   "logo": "https://live.fanmingming.com/tv/{name}.png"
+  }, {
+   "name": "nctv",
+   "type": 0,
+   "url": "http://live.nctv.top/x.txt",
+   "ua": "okhttp/4.1.0"
+  }, {
+   "name": "ofiii",
+   "type": 0,
+   "url": "./lib/ofiii.m3u"
+  }, {
+   "name": "Guovin",
+   "type": 0,
+   "url": "https://gh.clun.top/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+  }, {
+   "name": "mlzlzj",
+   "type": 0,
+   "url": "https://gh.clun.top/github.com/mlzlzj/TV/blob/main/output/result.m3u"
+  }, {
+   "name": "gambiarras",
+   "type": 0,
+   "url": "https://gh.clun.top/github.com/gambiarras/legal-iptv/blob/main/playlist.m3u"
+  }, {
+   "name": "epg.pw All",
+   "type": 0,
+   "url": "https://m3u.002397.xyz/all.m3u"
+  }, {
+   "name": "iptv.org All",
+   "type": 0,
+   "url": "https://m3u.002397.xyz/o_all.m3u"
+  }, {
+   "group": "redirect",
+   "channels": [{
+     "name": "redirect",
+     "urls": [
+      "proxy://do=live&type=live&proxy=&url="
+     ]
+    }
+   ]
+  }
+ ]
+}
